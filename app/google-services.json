@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228742210311",
+    "project_id": "meulogin-965f5",
+    "storage_bucket": "meulogin-965f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228742210311:android:36e2c19a75334f20a79ba2",
+        "android_client_info": {
+          "package_name": "br.com.itb.meulogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228742210311-4gj16e1205k9ah58jsp2g0olc4smllp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.itb.meulogin",
+            "certificate_hash": "4865d492ccca738497f85f26a0e43f6295d8fd40"
+          }
+        },
+        {
+          "client_id": "228742210311-50n5jvin8vojmkcihl8osvlokq4pnqmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbHAjtdiMUjfGN28M8ipVfr0KBRtTAbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228742210311-50n5jvin8vojmkcihl8osvlokq4pnqmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
